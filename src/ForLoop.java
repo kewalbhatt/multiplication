@@ -11,4 +11,8 @@ public class ForLoop {
          }
 
     }
+
+    public String getInterest() {
+        return "10";
+    }
 }
